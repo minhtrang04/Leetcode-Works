@@ -1,7 +1,5 @@
 # Write your MySQL query statement below
-select player_id,event_date as first_login from Activity
-where(player_id,event_date) in(
-    select player_id,MIN(event_date)
-    from Activity
-    group by player_id
-)
+select player_id,MIN(event_date) as first_login 
+from Activity
+ group by player_id
+
