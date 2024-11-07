@@ -40,6 +40,7 @@ Pratice for your future work
 | [1801-average-time-of-process-per-machine](https://github.com/minhtrang04/Leetcode-Works/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/minhtrang04/Leetcode-Works/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/minhtrang04/Leetcode-Works/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/minhtrang04/Leetcode-Works/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/minhtrang04/Leetcode-Works/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/minhtrang04/Leetcode-Works/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/minhtrang04/Leetcode-Works/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
