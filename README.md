@@ -41,5 +41,6 @@ Pratice for your future work
 | [1811-fix-names-in-a-table](https://github.com/minhtrang04/Leetcode-Works/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/minhtrang04/Leetcode-Works/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/minhtrang04/Leetcode-Works/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/minhtrang04/Leetcode-Works/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/minhtrang04/Leetcode-Works/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
